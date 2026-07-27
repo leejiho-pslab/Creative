@@ -1,0 +1,805 @@
+{
+  "brand": {
+    "id": "keek",
+    "name": "keek(키크)",
+    "company": "㈜커버써먼 (CVSM)",
+    "ceo": "이재호",
+    "positioning": "라이프스타일 테크 브랜드 / Urban Nomad Gear",
+    "tagline": "TECH THAT BREATHES",
+    "subTagline": "Sleep any-wear, Travel every-wear",
+    "coreTech": {
+      "name": "Pillowdy (Air Tech)",
+      "etymology": "Pillow(베개) + Hoodie(후드)",
+      "mechanism": "외부 가슴 포켓 공기주입구에 숨을 불어넣으면 원단이 부풀어 목베개가 됨",
+      "speed": {
+        "official": "3초",
+        "press": "5초"
+      },
+      "valve": "인체무해 PE 소재, 분리 세척 가능",
+      "ergonomics": "인체공학 3D 패턴, 공기량으로 지지 강도 조절",
+      "v3Upgrade": "이전 Windbreaker KIT(CAH11F)에 굴곡을 추가해 2차원 입체 → 3차원 입체로 업그레이드 (언론이 말한 '필로우 키트'의 실체)",
+      "hiddenSellingPoint": "공기를 빼면 목베개 기능이 전혀 보이지 않아 스타일 유지 — 기사·리뷰·SNS 어디에도 부각되지 않은 최대 논거",
+      "patent": "지지대가 포함된 인체 친화적 날개형 에어 쿠션",
+      "sustainabilityAngle": "다운/폼 대신 공기를 충전재로 사용",
+      "cumulativeSales": "Pillowdy 누적 10만 장 돌파 (2025-12 보도)"
+    },
+    "accessories": {
+      "airTubeKit": {
+        "name": "keek Flexible Air Tube Kit",
+        "priceKrw": 8900,
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "note": "입으로 부는 것에 대한 위생 우려의 대안"
+      },
+      "giftBox": {
+        "name": "박스 선물포장",
+        "priceKrw": 3000
+      }
+    },
+    "channels": {
+      "d2c": [
+        "keek-line.com",
+        "en.keek-line.com",
+        "keek-jp.com",
+        "네이버 스마트스토어 keek"
+      ],
+      "retail": [
+        "KREAM",
+        "29CM",
+        "무신사",
+        "SSF샵",
+        "지그재그",
+        "컬리",
+        "하프클럽",
+        "G마켓",
+        "버킷스토어"
+      ],
+      "offline": [
+        "성수 플래그십",
+        "한남 플래그십",
+        "신세계면세점 인천공항 T2",
+        "롯데면세점",
+        "신라면세 서울(장충)"
+      ],
+      "cafe24MallId": "keek",
+      "buyOptions": [
+        "BUY NOW",
+        "PRE-ORDER",
+        "정기배송",
+        "GIFT",
+        "ADD TO CART"
+      ],
+      "shipping": "3,000원 / 5만원 이상 무료 / 해외배송 가능"
+    },
+    "keywordClusters": {
+      "situation": [
+        "여행룩",
+        "공항룩",
+        "장거리비행",
+        "여행필수템",
+        "출근길",
+        "짐줄이기"
+      ],
+      "category": [
+        "기내용목베개",
+        "비행기목베개",
+        "초경량목베개",
+        "경량바람막이",
+        "패커블자켓",
+        "고프코어"
+      ],
+      "brand": [
+        "keek",
+        "키크",
+        "필로우디",
+        "Pillowdy",
+        "커버써먼",
+        "CVSM"
+      ]
+    }
+  },
+  "products": [
+    {
+      "slug": "pillowdy-uv-light-windbreaker-v3",
+      "productNo": 1833,
+      "sourceUrl": "https://keek-line.com/product/keek-pillowdy-uv-light-windbreaker-v3/1833/category/24/display/3/",
+      "nameKo": "키크 필로우디 UV 라이트 윈드브레이커 V3",
+      "nameEn": "keek Pillowdy UV Light Windbreaker V3",
+      "cafe24ProductCode": "P0000CSN",
+      "styleCode": "K0HJK001",
+      "priceKrw": 159000,
+      "retailPriceKrw": 159000,
+      "supplyPriceKrw": null,
+      "streetPriceKrw": 143100,
+      "priceUsd": 109,
+      "madeIn": "KR",
+      "display": true,
+      "selling": true,
+      "soldOut": false,
+      "createdDate": "2025-07-15T15:32:30+09:00",
+      "updatedDate": "2026-07-21T11:34:14+09:00",
+      "shippingWeightKg": 1.0,
+      "reviewCount": 0,
+      "colors": [
+        {
+          "text": "Beige",
+          "hex": "#d7b170"
+        },
+        {
+          "text": "L.Blue",
+          "hex": "#0000fd",
+          "note": "어드민 색상칩이 순파랑으로 오설정된 것으로 보임"
+        },
+        {
+          "text": "D.Khaki",
+          "hex": "#56754c"
+        },
+        {
+          "text": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "variantCount": 24,
+      "inventory": {
+        "measuredAt": "2026-07-27",
+        "total": 3055,
+        "byColor": {
+          "Beige": 442,
+          "L.Blue": 439,
+          "D.Khaki": 1199,
+          "Black": 975
+        },
+        "bySize": {
+          "XS": 217,
+          "S": 634,
+          "M": 948,
+          "L": 856,
+          "XL": 186,
+          "XXL": 214
+        },
+        "grid": {
+          "Beige": {
+            "XS": 91,
+            "S": 0,
+            "M": 122,
+            "L": 190,
+            "XL": 0,
+            "XXL": 39
+          },
+          "L.Blue": {
+            "XS": 96,
+            "S": 95,
+            "M": 97,
+            "L": 98,
+            "XL": 3,
+            "XXL": 50
+          },
+          "D.Khaki": {
+            "XS": 30,
+            "S": 298,
+            "M": 391,
+            "L": 290,
+            "XL": 95,
+            "XXL": 95
+          },
+          "Black": {
+            "XS": 0,
+            "S": 241,
+            "M": 338,
+            "L": 278,
+            "XL": 88,
+            "XXL": 30
+          }
+        },
+        "soldOutCombos": [
+          "Beige/S",
+          "Beige/XL",
+          "Black/XS"
+        ],
+        "nearlySoldOut": [
+          "L.Blue/XL (3)"
+        ],
+        "note": "재고 과잉. D.Khaki 39% 비중, M·L에 59% 집중 → 콘텐츠는 D.Khaki M/L 우선",
+        "independentlyVerified": {
+          "at": "2026-07-27",
+          "method": "storefront option JSON (stock_number)",
+          "result": "24개 변형 전량 Admin API 수치와 일치",
+          "confidence": "high"
+        }
+      },
+      "detailSections": [
+        {
+          "key": "airValve",
+          "title": "Air Valve System",
+          "copy": "간편하고 빠르게 공기를 주입할 수 있는 에어 밸브는, 인체에 무해한 친환경 PE소재로 제작되어 안전성과 편의성을 모두 갖췄습니다. 공기 주입과 배출이 손쉽게 이루어져, 사용자의 상황에 따라 편안함을 빠르게 조절할 수 있습니다."
+        },
+        {
+          "key": "airTech",
+          "title": "Pillowdy Air Tech",
+          "copy": "이전 Windbreaker KIT(CAH11F)에 굴곡을 추가해 2차원 입체에서 3차원 입체로 업그레이드했습니다. 인체공학적 3D 패턴이 적용된 'Pillowdy Air Tech'는 사용자가 원하는 대로 공기량을 조절할 수 있어 목을 부드럽게 지지하며, 개인의 체형과 상황에 최적화된 편안함을 제공합니다."
+        },
+        {
+          "key": "uvRipstop",
+          "title": "UV Shield + Ribstop",
+          "copy": "UV 차단, 정전기 방지 가공을 더한 경량 나일론 쉘을 통하여 강한 햇빛 속에서도 피부를 보호하고, 스마트폰보다 가벼운 무게(약 150g)로 언제 어디서나 가벼운 초경량 윈드브레이커입니다.",
+          "warning": "자사몰 카피에 'Ribstop' 오타. 정확한 표기는 Ripstop. 또한 V3 카피에는 UPF 50+ 수치가 없음(V2·언론에만 존재)"
+        },
+        {
+          "key": "packable",
+          "title": "Packable",
+          "copy": "일체형 패커블 파우치 시스템으로 상황에 따라 분실우려없이 휴대가 용이하고 기내, 실내, 야외 활동 등에서 손쉽게 보관 가능합니다."
+        }
+      ],
+      "measuredSizes": [
+        {
+          "size": "M",
+          "totalLength": 73,
+          "shoulder": 48.5,
+          "chest": 63.5,
+          "sleeve": 63.3,
+          "source": "blogger",
+          "confidence": "deprecated",
+          "deprecatedReason": "공식표와 불일치. 이 'M' 수치는 공식 L(72.5/52/63)에 더 가깝다. 사이즈는 officialSizeChart만 사용할 것"
+        }
+      ],
+      "fitNote": "여유 있는 릴랙스 핏. 오버핏 원하면 한 사이즈 업",
+      "scenarios": [
+        "장거리 비행",
+        "공항룩",
+        "여행 짐 줄이기",
+        "등산·가을 아우터",
+        "일상 경량 아우터"
+      ],
+      "oneLiner": "150g, 가방에 접어 넣는 UPF 나일론 바람막이. 후드가 3초 만에 목베개가 되고, 안 쓸 땐 티도 안 난다.",
+      "officialSizeChart": {
+        "unit": "cm",
+        "toleranceCm": "1-2",
+        "source": "storefront image .../20260316/uv20light20windbreaker20v3_detail_size.jpg",
+        "verifiedAt": "2026-07-27",
+        "confidence": "high",
+        "note": "공식표는 총길이/어깨너비/가슴단면 3개 치수만 고지. 소매길이 없음",
+        "rows": [
+          {
+            "size": "XS",
+            "totalLength": 63.5,
+            "shoulder": 46,
+            "chest": 53
+          },
+          {
+            "size": "S",
+            "totalLength": 68.5,
+            "shoulder": 49,
+            "chest": 58
+          },
+          {
+            "size": "M",
+            "totalLength": 70,
+            "shoulder": 50,
+            "chest": 60
+          },
+          {
+            "size": "L",
+            "totalLength": 72.5,
+            "shoulder": 52,
+            "chest": 63
+          },
+          {
+            "size": "XL",
+            "totalLength": 74.5,
+            "shoulder": 53.5,
+            "chest": 65.5
+          },
+          {
+            "size": "XXL",
+            "totalLength": 76.5,
+            "shoulder": 55,
+            "chest": 68
+          }
+        ]
+      },
+      "visualAssetGap": {
+        "finding": "상세 디테일 컷이 전량 L.Blue 단일 컬러. 재고 39%인 D.Khaki는 컬러칩 1장 외 실물 사진 없음",
+        "stockShareByColor": {
+          "D.Khaki": 0.39,
+          "Black": 0.32,
+          "Beige": 0.14,
+          "L.Blue": 0.14
+        },
+        "implication": "D.Khaki 콘텐츠는 기존 자산 재활용 불가. 신규 촬영이 선행되어야 함"
+      }
+    },
+    {
+      "slug": "pillowdy-utility-nylon-vest-mesh-lining",
+      "productNo": 1793,
+      "sourceUrl": "https://keek-line.com/product/keek-pillowdy-utility-nylon-vest-mesh-lining/1793/category/24/display/1/",
+      "nameKo": "키크 필로우디 유틸리티 나일론 베스트 (메쉬 안감)",
+      "nameEn": "keek Pillowdy Utility Nylon Vest (Mesh lining)",
+      "cafe24ProductCode": "P0000CQZ",
+      "styleCode": "P0FVT301",
+      "priceKrw": 149000,
+      "retailPriceKrw": 149000,
+      "supplyPriceKrw": 92300,
+      "grossMarginPct": 38.1,
+      "streetPriceKrw": 134100,
+      "priceUsd": 112,
+      "madeIn": "KR",
+      "display": true,
+      "selling": true,
+      "soldOut": false,
+      "createdDate": "2025-03-05T15:35:56+09:00",
+      "updatedDate": "2026-06-04T15:25:40+09:00",
+      "shippingWeightKg": 0.8,
+      "reviewCount": 0,
+      "categoryDisplay": "category 24 / display 1 = 카테고리 최상단 대표 상품",
+      "colors": [
+        {
+          "text": "Gray",
+          "hex": "#a9a9a9"
+        },
+        {
+          "text": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "variantCount": 4,
+      "unisex": true,
+      "inventory": {
+        "measuredAt": "2026-07-27",
+        "grid": {
+          "Gray": {
+            "M": 79,
+            "L": -7
+          },
+          "Black": {
+            "M": -9,
+            "L": -16
+          }
+        },
+        "negativeCombos": [
+          "Gray/L (-7)",
+          "Black/M (-9)",
+          "Black/L (-16)"
+        ],
+        "alert": "4개 변형 중 3개가 스토어프론트에서 품절 노출되어 구매 불가. 마이너스(-32)는 진행 중 초과판매가 아니라 이미 발생한 초과판매의 미정산 장부 흔적이다 (스토어프론트가 음수를 0으로 클램프: bIsDisplaySoldoutOption=true, aSoldoutDisplay={\"1793\":\"품절\"}). ledgerTotal 47은 순장부값, sellableTotal 79(Gray M)가 실제 판매 가능 수량. 창고 실사는 여전히 필요. 콘텐츠로 밀면 방문자의 3/4이 품절 화면을 보므로 재입고 확인 전까지 밀지 말 것",
+        "sellableTotal": 79,
+        "ledgerTotal": 47,
+        "storefrontGrid": {
+          "Gray": {
+            "M": 79,
+            "L": 0
+          },
+          "Black": {
+            "M": 0,
+            "L": 0
+          }
+        },
+        "soldOutCombos": [
+          "Gray/L",
+          "Black/M",
+          "Black/L"
+        ],
+        "correctedOn": "2026-07-27",
+        "supersededClaim": "판매 상태 T로 계속 노출·판매 중 — 사실 아님"
+      },
+      "fabric": {
+        "shell": "나일론 100%",
+        "lining": "폴리에스터 100% 메쉬",
+        "coating": "PU 코팅",
+        "zipper": "YKK",
+        "string": "후드 뒷편·밑단 엘라 스트링"
+      },
+      "detailSections": [
+        {
+          "key": "airTech",
+          "title": "Pillowdy Air Tech"
+        },
+        {
+          "key": "airValve",
+          "title": "Air Valve System"
+        }
+      ],
+      "detailSectionsAbsent": [
+        "UV Shield + Ripstop",
+        "Packable"
+      ],
+      "officialCopy": "keek의 필로우디 베스트 집업입니다. CVSM의 기술 중 에어테크(Air tech)인 Pillowdy는 오랜 R&D 과정을 통해 Pillow(베개)+Hoodie(후드)를 결합한 Pillowdy로 탄생되었고, 친환경 충전재인 에어를 활용한 넥쿠션 기능으로 CVSM의 철학을 담아내었습니다. 외부 가슴 포켓에 위치한 공기주입구로 공기를 불어 넣으면 3초만에 원단이 부풀어 목베개가 됩니다. 공기를 다시 뺄 때에도 아주 손쉽게 뺄 수 있으며, 공기를 빼 기능을 사용하지 않을 때에는 목베개 기능이 전혀 보이지 않아 스타일을 유지시켜줍니다. 입에 닿는 부분인 공기주입구는 인체에 무해한 PE 소재로 제작되었으며, 해체하여 세척이 가능합니다. 나일론 원단의 특성인 강성과 속건 등 장점을 모두 가지고 있어 방품 효과도 탁월하며, 메쉬 안감을 적용하여 통기성을 높이고 활동성이 우수하여 운동 시에도 활용이 가능합니다. PU 코팅을 진행한 기능성 원단을 사용해 생활 방수가 가능하며 YKK 지퍼를 사용하여 내구성을 더하고 후드 뒷편과 밑단에는 엘라 스트링을 설치하여 기후와 기호에 맞는 스타일링을 통해 고프코어 무드 연출이 가능합니다.",
+      "measuredSizes": [
+        {
+          "size": "unspecified",
+          "shoulder": 45,
+          "chest": 60,
+          "totalLength": 58,
+          "source": "blogger",
+          "confidence": "deprecated",
+          "deprecatedReason": "가슴단면이 공식표와 8.5cm 어긋남(60 vs 68.5). 홑겹 버전(K0HVE201) 측정 가능성. officialSizeChart만 사용할 것"
+        }
+      ],
+      "siblings": [
+        {
+          "name": "Pillowdy Utility Light Vest (Single-layer)",
+          "styleCode": "K0HVE201",
+          "priceKrw": 149000,
+          "diff": "안감 없음(홑겹)"
+        },
+        {
+          "name": "[아로치카 x keek] Pillowdy Utility Nylon Vest (Mesh lining)",
+          "diff": "콜라보 에디션"
+        }
+      ],
+      "scenarios": [
+        "간절기 레이어드",
+        "운동",
+        "여행·캠핑",
+        "고프코어 스타일링"
+      ],
+      "oneLiner": "팔이 자유롭고 안감이 메쉬라 운동까지 되는 목베개 조끼.",
+      "officialSizeChart": {
+        "unit": "cm",
+        "toleranceCm": "1-2",
+        "source": "storefront image .../20260316/copy-1773641137-vest_size.jpg",
+        "verifiedAt": "2026-07-27",
+        "confidence": "high",
+        "note": "M과 L의 어깨너비·가슴단면이 동일(44.5/68.5). 차이는 총장 6.5cm뿐 — 품 사이즈가 아니라 기장 사이즈다",
+        "rows": [
+          {
+            "size": "M",
+            "totalLength": 55.5,
+            "shoulder": 44.5,
+            "chest": 68.5
+          },
+          {
+            "size": "L",
+            "totalLength": 62,
+            "shoulder": 44.5,
+            "chest": 68.5
+          }
+        ]
+      }
+    }
+  ],
+  "instagram": {
+    "measuredAt": "2026-07-27",
+    "method": "Instagram Graph API business_discovery (PSLAB IG 비즈니스 계정 토큰)",
+    "handleResolution": {
+      "keek_kr": "실존 — 한국 공식 계정",
+      "keek_crew": "폐기됨 — Graph API Invalid user id (code 110). keek_kr 로 핸들 변경 확정",
+      "evidence": "keek_jp 바이오에 아직 @keek_crew 멘션이 남아 있음"
+    },
+    "accounts": [
+      {
+        "handle": "keek_kr",
+        "name": "keek official (키크)",
+        "followers": 37798,
+        "mediaCount": 511,
+        "website": "http://www.keek-line.com/",
+        "bio": "keek | Lifestyle Tech brand",
+        "sample": 50,
+        "sampleRange": "2025-12-31 ~ 2026-07-21",
+        "avgLikes": 33.8,
+        "avgComments": 2.5,
+        "maxLikes": 101,
+        "engagementRatePct": 0.096,
+        "formatMix": {
+          "REELS": 40,
+          "FEED": 10
+        },
+        "weekdayDist": {
+          "월": 10,
+          "화": 9,
+          "수": 9,
+          "목": 8,
+          "금": 12,
+          "토": 2,
+          "일": 0
+        },
+        "topHoursKst": [
+          17,
+          18,
+          11,
+          10
+        ],
+        "monthlyVolume": {
+          "2025-12": 1,
+          "2026-01": 8,
+          "2026-02": 4,
+          "2026-03": 11,
+          "2026-04": 10,
+          "2026-05": 6,
+          "2026-06": 6,
+          "2026-07": 4
+        },
+        "hashtagFreq": {
+          "keek": 6,
+          "keekrun": 2,
+          "pillowdy": 2,
+          "_others": "각 1회 (키크·필로우디·Neckpillow·AirFlow·롯데백화점·명동·직장인·루틴·LifeStyleTech·성수·롯데면세점)"
+        },
+        "topPosts": [
+          {
+            "likes": 101,
+            "comments": 2,
+            "type": "REELS",
+            "at": "2026-06-09 화 12시 KST",
+            "hook": "지친 하루를 마치고,"
+          },
+          {
+            "likes": 71,
+            "comments": 6,
+            "type": "REELS",
+            "at": "2026-01-22 목 10시 KST",
+            "hook": "아늑한 집에서 온전한 쉼 (한·영·일 3개국어)"
+          },
+          {
+            "likes": 62,
+            "comments": 3,
+            "type": "REELS",
+            "at": "2026-01-16 금 16시 KST",
+            "hook": "바쁜 일상 속, 필로우디로 쉼을 느껴보세요"
+          },
+          {
+            "likes": 57,
+            "comments": 0,
+            "type": "REELS",
+            "at": "2026-04-30 목 12시 KST",
+            "hook": "언제든, 편안하게"
+          },
+          {
+            "likes": 53,
+            "comments": 2,
+            "type": "REELS",
+            "at": "2026-01-23 금 19시 KST",
+            "hook": "롯데백화점 명동 본점 POP-UP OPEN"
+          }
+        ],
+        "contentThemes": [
+          "감성·정서 카피(최다·최고성과)",
+          "팝업·유통 공지",
+          "신제품 카탈로그(Air Brief Bag·Safety Harness·Blowfish Bag·Pillow O V2)",
+          "이벤트(#keekrun·국대응원)"
+        ]
+      },
+      {
+        "handle": "keek_jp",
+        "name": "keek japan(ピロウディ)",
+        "followers": 5435,
+        "mediaCount": 120,
+        "website": "https://keek-jp.com",
+        "avgLikes": 10.5,
+        "avgComments": 0.1,
+        "engagementRatePct": 0.196,
+        "formatMix": {
+          "FEED": 29,
+          "REELS": 21
+        },
+        "hashtagFreq": {
+          "pillowdy": 29,
+          "keek": 25,
+          "hoodies": 6,
+          "keekjp": 5,
+          "choosebaseshibuya": 4,
+          "空港ファッション": 4,
+          "ロフト": 3,
+          "loftjapan": 3
+        },
+        "note": "팔로워는 KR의 1/7인데 참여율은 2배. 다만 같은 캡션 템플릿을 12건 이상 복붙"
+      }
+    ],
+    "coreFunctions": [
+      {
+        "id": "emotion",
+        "label": "감성 서사 전달",
+        "status": "active",
+        "evidence": "상위 7건 전부 '쉼' 서사"
+      },
+      {
+        "id": "offline",
+        "label": "오프라인 유통 공지",
+        "status": "active"
+      },
+      {
+        "id": "catalog",
+        "label": "신제품 카탈로그",
+        "status": "active"
+      },
+      {
+        "id": "demo",
+        "label": "기능 실증(3초 목베개)",
+        "status": "stalled",
+        "evidence": "최근 50건 중 1건"
+      },
+      {
+        "id": "discovery",
+        "label": "탐색 유입(해시태그)",
+        "status": "broken",
+        "evidence": "50건 중 해시태그 사용 10건 남짓"
+      }
+    ],
+    "priorityActions": [
+      "해시태그 3층(브랜드·카테고리·상황) 즉시 도입 — 가장 싸고 확실",
+      "바이오 재작성 — JP처럼 효익+판매처 명시",
+      "기능 실증형 릴스 부활 + 감성형과 A/B",
+      "발행량 주 2회 이상 복원 (3월 11건 → 7월 4건)",
+      "계정 인사이트 확보(릴스 재생수 없이는 노출/반응 구분 불가)",
+      "재고-콘텐츠 정합: 윈드브레이커 D.Khaki M/L 우선, 베스트는 재입고 확인 후"
+    ]
+  },
+  "meta": {
+    "createdAt": "2026-07-27",
+    "collectionMethod": "GitHub Actions(keek-product-ig-pull.yml)에서 Cafe24 Admin API + keek-line.com 스토어프론트 + Instagram Graph API business_discovery 실측. 보완적으로 네이버 검색 API·언론·리테일 리스팅 교차검증",
+    "blockedFromSandbox": [
+      "keek-line.com",
+      "www.instagram.com",
+      "api.cafe24.com",
+      "graph.facebook.com",
+      "keek-ops-dashboard.onrender.com"
+    ],
+    "unavailableEndpoints": [
+      "GET /api/v2/admin/products/{no}/categories → 404 No API found",
+      "GET /api/v2/admin/products/{no}/variants/inventories → 404 No API found (재고는 variants.quantity 로 대체)"
+    ],
+    "stillMissing": [
+      "혼용률·세탁 취급 표시",
+      "릴스 재생수·도달·저장·팔로워 데모",
+      "상품별 판매량·조회수(Cafe24 통계 API)",
+      "1793 마이너스 재고의 실제 원인(창고 실사)",
+      "D.Khaki 실물 촬영본",
+      "유튜브 영상 28편의 화면·음성 내용(프록시·자막API 차단)",
+      "룩북·패션필름 12편의 제품 정보",
+      "에어 과주입 주의사항 전문(API 500자 상한에서 잘림)",
+      "YouTube Analytics 트래픽 소스(채널 소유자 권한 필요)"
+    ],
+    "verifications": [
+      {
+        "date": "2026-07-27",
+        "doc": "verification-2026-07-27b.md",
+        "method": "keek-line.com 스토어프론트 직접 조회 + 상세 이미지 판독",
+        "accessNote": "api.cafe24.com 차단 유지, 세션에 CAFE24_*/PSLAB_INSTAGRAM_* 자격증명 없음",
+        "resolved": [
+          "공식 사이즈표 2종"
+        ],
+        "corrected": [
+          "블로거 실측 사이즈 폐기(2제품)",
+          "1793 '계속 팔리고 있다' 정정"
+        ],
+        "confirmed": [
+          "1833 재고 3,055장 전량 일치"
+        ],
+        "new": [
+          "D.Khaki 촬영 자산 부재",
+          "Tech That Breath 태그라인",
+          "1793 M/L은 기장만 다름"
+        ]
+      },
+      {
+        "date": "2026-07-27",
+        "doc": "youtube.md",
+        "method": "YouTube Data API v3 — 채널·업로드 재생목록·영상 상세·댓글 (28편 전량)",
+        "accessNote": "youtube.com 전 호스트 프록시 차단, 자막 API IP 차단, search 쿼터 소진(업로드 재생목록으로 우회)",
+        "new": [
+          "척추 전문의 3자 검증 자산",
+          "AIR TECH 재정의(지지·고정·완충)",
+          "무대 추가: 캠핑·수험생",
+          "Urban Nomad Gear 아이덴티티",
+          "TECH THAT BREATHES 태그라인 확정",
+          "KEEK LAB 서브라벨",
+          "공식 Instruction Guide 영상 기보유",
+          "에어 과주입 주의 문구 존재"
+        ]
+      }
+    ]
+  },
+  "brandAssets": {
+    "backPrintTagline": {
+      "text": "TECH THAT BREATHES",
+      "placement": "등판 톤온톤 프린트",
+      "confidence": "high",
+      "note": "이미지 판독으로는 어미가 불명확했으나 인스타 바이오 'TECH THAT BREATHES Life Style Tech brand'로 교차 확인"
+    },
+    "labelText": [
+      "keek SINCE 2011",
+      "ATYPICAL VERSATILE WEAR"
+    ],
+    "identity": {
+      "phrase": "Urban Nomad Gear",
+      "fullCopy": "키크(keek)는 '일상을 여행하는 당신을 위해' 'Urban Nomad Gear'라는 아이덴티티 아래 디자인에 테크를 접목하여 지속가능성과 삶의 개선을 목표합니다.",
+      "source": "youtube @keek1726 가방 영상 설명문",
+      "confidence": "high"
+    }
+  },
+  "airTechRedefined": {
+    "definition": "공기로 지지·고정·완충을 만드는 기술. '다운 대신 공기를 쓰는 충전재'가 아니다",
+    "functionsByBody": {
+      "apparel": [
+        "목·경추 지지"
+      ],
+      "bag": [
+        "등·몸 밀착 쿠션",
+        "내용물 흔들림 고정",
+        "내용물 손상 완충"
+      ]
+    },
+    "source": "youtube @keek1726 Air Blowfish Bag / Air Reversible Multi Bag 설명문",
+    "warning": "같은 설명문에 '과도한 에어 주입…' 주의 문구가 있으나 API 500자 상한에서 잘림. 전문 확보 전 '마음껏 불어넣으라' 류 카피 금지"
+  },
+  "thirdPartyValidation": [
+    {
+      "type": "의료 전문가 사용 후기",
+      "person": "은상수",
+      "title": "센터장",
+      "affiliation": "서울부민병원 척추내시경센터",
+      "year": 2024,
+      "quote": "목 둘레 모양에 맞게 감싼 에어쿠션이 인체공학적으로 경추 자세를 바르게 지지하여 피로도가 줄어듭니다. 어깨랑 목이 쉽게 피로해 지는 수험생이나 여행자들에게 도움이 될 겁니다.",
+      "videos": [
+        "MQhLrsuR9N4",
+        "pcZZifQdQKI"
+      ],
+      "views": [
+        519,
+        361
+      ],
+      "usageRestriction": "개인 사용 후기이며 임상시험·인증이 아니다. '의학적 입증'·'치료 효과'·'병원 인증' 표현 금지. '척추 전문의 사용 후기'로만 성명·소속과 함께 인용. 표시광고 심의 확인 필요"
+    },
+    {
+      "type": "방송 노출",
+      "program": "강철부대W 10회",
+      "person": "양해주 중사",
+      "context": "우승 후 캠핑",
+      "product": "Pillowdy Hoodie V2 Comfy Fit (자사몰 1681)",
+      "video": "VA3jD_ceaeY",
+      "views": 221902,
+      "year": 2024,
+      "note": "채널 전체 조회수의 66%. 단 재고가 쌓인 V3(1833)가 아니라 V2(1681)를 가리킨다"
+    }
+  ],
+  "youtube": {
+    "handle": "@keek1726",
+    "channelId": "UCn7Nts9PeymXh5jQhc3KN5A",
+    "measuredAt": "2026-07-27",
+    "createdAt": "2018-07-18",
+    "subscribers": 82,
+    "totalViews": 334178,
+    "videoCount": 28,
+    "totalLikes": 100,
+    "likeRatePct": 0.03,
+    "top2ViewSharePct": 85.8,
+    "top5ViewSharePct": 97.3,
+    "latestUpload": {
+      "date": "2026-02-24",
+      "title": "keek Brand Film_Main",
+      "views": 50
+    },
+    "diagnosis": "구독자 82명에 조회수 33만 — 조회수가 구독 기반이 아니라 광고·방송 유입이다. 채널로 운영되지 않는 자산 보관소",
+    "unusedAssets": [
+      "Pillowdy Instruction Guide 공식 사용법 영상 12,098회",
+      "척추 전문의 인터뷰 2편 (519·361회)",
+      "강철부대W 방송 클립 221,902회"
+    ],
+    "subLabel": {
+      "name": "KEEK LAB",
+      "products": [
+        "Tech Fleece Pillowdy",
+        "Heavy Weight Pillowdy"
+      ],
+      "year": 2021
+    },
+    "pillowOLine": {
+      "note": "목베개 단품 라인. 2025-06-09 6편 일괄 업로드",
+      "angleAlreadyUsed": "거추장 스럽지 않은 목베개 — 의류 앵글 C-1 '안 쓸 땐 티도 안 납니다'와 동일 논거 계열"
+    },
+    "limitation": "youtube.com 전 호스트 프록시 차단 + 자막 API IP 차단으로 영상 내용 미시청. 제목·설명문·조회수·댓글 기반 분석"
+  }
+}
