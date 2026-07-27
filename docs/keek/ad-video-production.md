@@ -139,19 +139,29 @@ Higgsfield 결과물 CDN(`d8j0ntlcm91z4.cloudfront.net`)도 프록시 차단이�
 
 ---
 
-## 6. 산출물
+## 6. 산출물 — 전량 완료 ✅
 
-| # | 종류 | Job ID |
-|---|---|---|
-| KF1 | 해변 키프레임 (여성 2인 · Gray Vest) | `73289be8-e755-4bb1-a939-d9a861e37599` |
-| KF2 | 문어 단독 키프레임 | `1d2ed2a1-bf0c-45ec-9b7d-755301d139a0` |
-| KF3 | 모델 키프레임 (Gray Vest) | `5ab83788-4a5c-4485-8505-1a4cbe5c2df2` |
-| KF4 | 문어 군집 키프레임 | `d6c36fb9-45d3-4f74-9920-01de7f6808da` |
-| **1-A** | 위성 → 부산 해변 | `c79e1a07-70b8-4656-9055-8fea8c9c9dcf` |
-| **1-B** | 공기 주입 → 감동 | `10ec64cb-3a00-40a4-8410-d9e758019566` |
-| **2-A** | 문어 착용 → POV 출발 | `57596f41-b169-475a-b2cb-4e13ba40d531` |
-| **2-B** | POV → 문어 친구들 | `261f9ebd-15f8-4b19-ba3a-1b8e06228c5c` |
-| **3** | 모델 쇼케이스 4컷 | `883ef330-cb93-45fa-87c7-985bf31435ac` |
+**영상 5클립** (9:16 · 10초 · pro · 사운드 on)
+
+| # | 내용 | Job ID | 파일 |
+|---|---|---|---|
+| **1-A** | 위성 → 부산 해변 | `c79e1a07-70b8-4656-9055-8fea8c9c9dcf` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_031809_c79e1a07-70b8-4656-9055-8fea8c9c9dcf.mp4) |
+| **1-B** | 공기 주입 → 감동 (3컷) | `10ec64cb-3a00-40a4-8410-d9e758019566` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_032520_10ec64cb-3a00-40a4-8410-d9e758019566.mp4) |
+| **2-A** | 문어 착용 → POV 출발 | `57596f41-b169-475a-b2cb-4e13ba40d531` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_031848_57596f41-b169-475a-b2cb-4e13ba40d531.mp4) |
+| **2-B** | POV → 문어 친구들 | `261f9ebd-15f8-4b19-ba3a-1b8e06228c5c` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_032313_261f9ebd-15f8-4b19-ba3a-1b8e06228c5c.mp4) |
+| **3** | 모델 쇼케이스 (4컷 · impact 램프) | `883ef330-cb93-45fa-87c7-985bf31435ac` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_032457_883ef330-cb93-45fa-87c7-985bf31435ac.mp4) |
+
+**키프레임 4장** (9:16 · 2K)
+
+| # | 내용 | Job ID | 파일 |
+|---|---|---|---|
+| KF1 | 부산 해변 · 여성 2인 · Gray Vest | `73289be8-e755-4bb1-a939-d9a861e37599` | [png](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_030948_73289be8-e755-4bb1-a939-d9a861e37599.png) |
+| KF2 | 문어 단독 · Pillow O V2 | `1d2ed2a1-bf0c-45ec-9b7d-755301d139a0` | [png](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_030952_1d2ed2a1-bf0c-45ec-9b7d-755301d139a0.png) |
+| KF3 | 외국인 모델 · Gray Vest | `5ab83788-4a5c-4485-8505-1a4cbe5c2df2` | [png](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_030956_5ab83788-4a5c-4485-8505-1a4cbe5c2df2.png) |
+| KF4 | 문어 군집 | `d6c36fb9-45d3-4f74-9920-01de7f6808da` | [png](https://d8j0ntlcm91z4.cloudfront.net/user_3EsYKei5ji5vSBZVwsAwggxd0R9/hf_20260727_031131_d6c36fb9-45d3-4f74-9920-01de7f6808da.png) |
+
+> **소요 크레딧** 약 122 (이미지 4×2 + 영상 5×~23). 잔액 857 → 약 735.
+> 링크는 Higgsfield CDN 직접 주소다. 보존이 필요하면 **로컬로 내려받아 보관**할 것.
 
 ## 7. 다음 단계
 
